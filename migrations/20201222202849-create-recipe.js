@@ -13,16 +13,16 @@ module.exports = {
         allowNull: false
       },
       title: {
-        allowNull: false,
-        type: Sequelize.STRING
+          allowNull: false,
+          type: Sequelize.STRING
       },
       ingredients: {
-        allowNull: false,
-        type: Sequelize.TEXT
+          allowNull: false,
+          type: Sequelize.STRING
       },
       direction: {
-        allowNull: false,
-        type: Sequelize.TEXT
+          allowNull: false,
+          type: Sequelize.STRING
       },
       createdAt: {
         allowNull: false,

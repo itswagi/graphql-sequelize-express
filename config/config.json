@@ -2,7 +2,7 @@
   "development": {
     "username": "postgres",
     "password": "postgres",
-    "database": "graphql-express",
+    "database": "graphql-express2",
     "host": "localhost",
     "dialect": "postgres"
   },
